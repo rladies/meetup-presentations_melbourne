@@ -1,5 +1,20 @@
+R-Ladies Melbourne Events
+================
 
 <img src="README_for_separate_repos_files/figure-markdown_github/unnamed-chunk-1-1.png" style="display: block; margin: auto;" />
+
+Events in 2018
+==============
+
+[Public Transport Maps and Geospatial Data In R](https://github.com/R-LadiesMelbourne/2018-02-12_PublicTransportMaps_and_GeospatialDataInR)
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Speaker [Belinda Maher](https://twitter.com/mingabelle)
+
+[Parallel Programming in R](https://github.com/R-LadiesMelbourne/2018-03-15_Parallelprogramming_in_R)
+-----------------------------------------------------------------------------------------------------
+
+Prepared and presented by [Soroor Zadeh](https://github.com/soroorh)
 
 Events in 2016-2017
 ===================
@@ -77,13 +92,3 @@ Prepared and presented by [Soroor Zadeh](https://github.com/soroorh) and [Marie 
 ----------------------------------------------------------------------------------
 
 Organised and directed by [Saskia Freytag](https://github.com/SaskiaFreytag)
-
-[Public Transport Maps and Geospatial Data In R](https://github.com/R-LadiesMelbourne/2018-02-12_PublicTransportMaps_and_GeospatialDataInR)
--------------------------------------------------------------------------------------------------------------------------------------------
-
-Speaker [Belinda Maher](https://twitter.com/mingabelle)
-
-[Parallel Programming in R](https://github.com/R-LadiesMelbourne/2018-03-15_Parallelprogramming_in_R)
------------------------------------------------------------------------------------------------------
-
-Prepared and presented by [Soroor Zadeh](https://github.com/soroorh)
