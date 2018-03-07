@@ -1,7 +1,7 @@
 R-Ladies Melbourne Events
 ================
 
-<img src="README_for_separate_repos_files/figure-markdown_github/unnamed-chunk-1-1.png" style="display: block; margin: auto;" />
+<img src="README_files/figure-markdown_github/unnamed-chunk-1-1.png" style="display: block; margin: auto;" />
 
 Events in 2018
 ==============
@@ -9,7 +9,7 @@ Events in 2018
 [Public Transport Maps and Geospatial Data In R](https://github.com/R-LadiesMelbourne/2018-02-12_PublicTransportMaps_and_GeospatialDataInR)
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-Speaker [Belinda Maher](https://twitter.com/mingabelle)
+Speaker [Belinda Maher](https://twitter.com/mingabelle). Find video of the seminar on YouTube <https://www.youtube.com/watch?v=84G6ZNTEHCo>
 
 [Parallel Programming in R](https://github.com/R-LadiesMelbourne/2018-03-15_Parallelprogramming_in_R)
 -----------------------------------------------------------------------------------------------------
