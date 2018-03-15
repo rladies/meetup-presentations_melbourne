@@ -16,6 +16,11 @@ Speaker [Belinda Maher](https://twitter.com/mingabelle). Find video of the semin
 
 Prepared and presented by [Soroor Zadeh](https://github.com/soroorh)
 
+[More than words - Text analysis in R](https://github.com/R-LadiesMelbourne/2018-04-17_Text_Aanalysis_in_R)
+-----------------------------------------------------------------------------------------------------------
+
+Prepared and presented by [Maria Prokofieva](https://www.vu.edu.au/contact-us/maria-prokofieva)
+
 Events in 2016-2017
 ===================
 
