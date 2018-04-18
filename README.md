@@ -6,10 +6,10 @@ R-Ladies Melbourne Events
 Events in 2018
 ==============
 
-[Everything you need to know to create your R package!](https://github.com/R-LadiesMelbourne/2018-04-17_Text_Aanalysis_in_R)
-----------------------------------------------------------------------------------------------------------------------------
+[Everything you need to know to create your R package!](https://github.com/R-LadiesMelbourne/2018-05-17_CreateRPackages)
+------------------------------------------------------------------------------------------------------------------------
 
-Prepared and presented by [Earo Wang](https://github.com/R-LadiesMelbourne/2018-05-17_CreateRPackages)
+Prepared and presented by [Earo Wang](https://earo.me/).
 
 [More than words - Text analysis in R](https://github.com/R-LadiesMelbourne/2018-04-17_Text_Aanalysis_in_R)
 -----------------------------------------------------------------------------------------------------------
