@@ -6,8 +6,8 @@ R-Ladies Melbourne Events
 Events in 2018
 ==============
 
-[Everything you need to know to create your R package!](https://github.com/R-LadiesMelbourne/2018-05-17_CreateRPackages)
-------------------------------------------------------------------------------------------------------------------------
+[Everything you need to know to create your R package!](https://github.com/earowang/rladies-pkg)
+------------------------------------------------------------------------------------------------
 
 Prepared and presented by [Earo Wang](https://earo.me/).
 
