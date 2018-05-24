@@ -9,6 +9,8 @@ Events in 2018
 [Everything you need to know to create your R package!](https://github.com/earowang/rladies-pkg)
 ------------------------------------------------------------------------------------------------
 
+Find all the R code [here](https://github.com/earowang/romato).
+
 Prepared and presented by [Earo Wang](https://earo.me/).
 
 [More than words - Text analysis in R](https://github.com/R-LadiesMelbourne/2018-04-17_Text_Aanalysis_in_R)
