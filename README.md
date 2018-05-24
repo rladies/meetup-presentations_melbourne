@@ -14,12 +14,12 @@ Prepared and presented by [Earo Wang](https://earo.me/).
 [More than words - Text analysis in R](https://github.com/R-LadiesMelbourne/2018-04-17_Text_Aanalysis_in_R)
 -----------------------------------------------------------------------------------------------------------
 
-Prepared and presented by [Maria Prokofieva](https://www.vu.edu.au/contact-us/maria-prokofieva)
+Prepared and presented by [Maria Prokofieva](https://www.vu.edu.au/contact-us/maria-prokofieva) Find video of the seminar on YouTube <https://www.youtube.com/watch?v=WOVwOQ5XhTI>.
 
 [Parallel Programming in R](https://github.com/R-LadiesMelbourne/2018-03-15_Parallelprogramming_in_R)
 -----------------------------------------------------------------------------------------------------
 
-Prepared and presented by [Soroor Zadeh](https://github.com/soroorh)
+Prepared and presented by [Soroor Zadeh](https://github.com/soroorh) Find video of the seminar on YouTube <https://www.youtube.com/watch?v=sXEn4M6YDOA>.
 
 [Public Transport Maps and Geospatial Data In R](https://github.com/R-LadiesMelbourne/2018-02-12_PublicTransportMaps_and_GeospatialDataInR)
 -------------------------------------------------------------------------------------------------------------------------------------------
