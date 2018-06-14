@@ -6,6 +6,14 @@ R-Ladies Melbourne Events
 Events in 2018
 ==============
 
+[Introduction to R](https://github.com/R-LadiesMelbourne/2018-06-16_Introduction-to-R-workshop)
+-----------------------------------------------------------------------------------------------
+
+Run by:
+
+1.  [Roxane Legaie](https://twitter.com/RoxaneLegaie), Lead Clinical Bioinformatician at Peter MacCallum Cancer Centre.
+2.  [Adele Barugahare](http://rnasystems.erc.monash.edu/labmembers/), Technical Assistant at Monash University.
+
 [Everything you need to know to create your R package!](https://github.com/earowang/rladies-pkg)
 ------------------------------------------------------------------------------------------------
 
