@@ -12,7 +12,7 @@ Events in 2018
 Run by:
 
 1.  [Roxane Legaie](https://twitter.com/RoxaneLegaie), Lead Clinical Bioinformatician at Peter MacCallum Cancer Centre.
-2.  [Adele Barugahare](http://rnasystems.erc.monash.edu/labmembers/), Technical Assistant at Monash University.
+2.  [Adele Barugahare](https://www.monash.edu/researchinfrastructure/bioinformatics/about/people), Bioinformatician at Monash University.
 
 [Everything you need to know to create your R package!](https://github.com/earowang/rladies-pkg)
 ------------------------------------------------------------------------------------------------
