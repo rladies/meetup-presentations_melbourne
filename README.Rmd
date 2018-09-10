@@ -17,6 +17,24 @@ grid.raster(img)
 
 # Events in 2018
 
+## [R as a tool for complex systems modelling](https://github.com/R-LadiesMelbourne/2018-09-19-R-as-a-tool-for-complex-systems-modelling)
+
+Run by [Caitlin Adams](https://www.linkedin.com/in/caitlinisabeladams/?originalSubdomain=au), PhD Student at Swinburne University's Centre for Astrophysics and Supercomputing.
+
+
+## [Getting down and up with blogging with R!](https://github.com/R-LadiesMelbourne/2018-08-28-Getting-down-and-up-with-blogging-with-R)
+
+Run by [Emi Tanaka](https://emitanaka.github.io/), Lecturer in Statistics, University of Sydney
+  
+## [Follow me! Introduction to social media analysis in R](https://github.com/R-LadiesMelbourne/Follow-Me-Introduction-to-social-media-analysis-in-R)
+
+Run by:
+
+  1. [Maria Prokofieva](https://www.vu.edu.au/contact-us/maria-prokofieva), Senior Lecturer, College of Business, Victoria University
+  2. [Anna Quaglieri](https://github.com/annaquaglieri16), PhD Student in Bioinformatics, The Walter and Eliza Hall Institute
+  3. [Saskia Freytag](https://github.com/SaskiaFreytag), Postdoctoral Fellow, The Walter and Eliza Hall Institute
+
+
 ## [Introduction to R](https://github.com/R-LadiesMelbourne/2018-06-16_Introduction-to-R-workshop)
 
 Run by:
