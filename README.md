@@ -9,6 +9,12 @@ Events in 2018
 [How R you? - R-Ladies Melbourne second anniversary](https://github.com/R-LadiesMelbourne/2018-10-16_How-R-You)
 ---------------------------------------------------------------------------------------------------------------
 
+Organised by [Anna Quaglieri](https://github.com/annaquaglieri16), [Saskia Freytag](https://twitter.com/trashystats) and [Göknur Giner](https://twitter.com/goknurginer).
+
+Find introduction slides [here](https://docs.google.com/presentation/d/1WKIw9l4LfMaf3eY7KTHDCqlV0wHLfXB9NdcR68JGpNE/edit?usp=sharing).
+
+Go to [How R you - R-Ladies Melbourne Tips website](https://rladies-melbourne-tips.netlify.com/).
+
 [R as a tool for complex systems modelling](https://github.com/R-LadiesMelbourne/2018-09-19-R-as-a-tool-for-complex-systems-modelling)
 --------------------------------------------------------------------------------------------------------------------------------------
 
