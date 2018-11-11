@@ -6,6 +6,11 @@ R-Ladies Melbourne Events
 Events in 2018
 ==============
 
+[From zero to science hero in 1 week](https://github.com/R-LadiesMelbourne/2018-11-14_From-zero-to-data-science-hero-in-1-week)
+-------------------------------------------------------------------------------------------------------------------------------
+
+Speaker: [Fiona Milne](https://twitter.com/fionascottym), data scientist at Eliiza, a ML/AI consulting company.
+
 [How R you? - R-Ladies Melbourne second anniversary](https://github.com/R-LadiesMelbourne/2018-10-16_How-R-You)
 ---------------------------------------------------------------------------------------------------------------
 
