@@ -6,6 +6,11 @@ R-Ladies Melbourne Events
 Events in 2018
 ==============
 
+[Semiparametric and non parametric models in R](https://github.com/R-LadiesMelbourne/2018-12-06-Semiparametric-and-non-parametric-models-in-R)
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Prepared and presented by [Soroor Zadeh](https://github.com/soroorh), Master Student in Statistics at the University of Melbourne and Research Assisant at the Walter and Eliza Hall Institute of Medical Research.
+
 [From zero to science hero in 1 week](https://github.com/R-LadiesMelbourne/2018-11-14_From-zero-to-data-science-hero-in-1-week)
 -------------------------------------------------------------------------------------------------------------------------------
 
