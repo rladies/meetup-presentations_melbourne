@@ -3,6 +3,18 @@ R-Ladies Melbourne Events
 
 <img src="README_files/figure-markdown_github/unnamed-chunk-1-1.png" style="display: block; margin: auto;" />
 
+Events in 2019
+==============
+
+[Producing publication-ready documents in R Markdown](https://github.com/R-LadiesMelbourne/2019-02-27-publications-ready-documents-with-Rmarkdown)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Prepared and presented by:
+
+-   [Soroor Zadeh](https://github.com/soroorh), Master Student in Statistics at the University of Melbourne and Research Assisant at the Walter and Eliza Hall Institute of Medical Research
+
+-   [Anna Quaglieri](https://github.com/annaquaglieri16), PhD Student in Bioinformatics at the University of Melbourne and the Walter and Eliza Hall Institute of Medical Research
+
 Events in 2018
 ==============
 
