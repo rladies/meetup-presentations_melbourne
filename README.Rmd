@@ -9,13 +9,17 @@ urlcolor: magenta
 ```{r echo=FALSE,message=FALSE,fig.width=5,fig.height=5,fig.align='center',cache=TRUE}
 library(png)
 library(grid)
-img <- readPNG("~/Documents/varie/Rladies/logo.png")
+img <- readPNG("~/Documents/varie/Rladies/logos/logo.png")
 grid.raster(img)
 ```
 
 \clearpage
 
 # Events in 2019
+
+## [Baby one more time - reproducibility in R and when to bring in the big guns](https://mrslaviniag.github.io/xaringan_presentations/rladies_presentation_22_May_2019.html#1)
+
+Prepared and presented by [Lavinia Gordon](https://www.linkedin.com/in/lavinia-gordon-74b58659/?originalSubdomain=au)
 
 ## [Producing publication-ready documents in R Markdown](https://github.com/R-LadiesMelbourne/2019-02-27-publications-ready-documents-with-Rmarkdown)
 
