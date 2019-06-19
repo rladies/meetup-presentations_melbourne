@@ -5,10 +5,15 @@ R-Ladies Melbourne Events
 
 # Events in 2019
 
+## [Open Science through rOpensci](https://github.com/R-LadiesMelbourne/2019-07-08-Open-Science-through-rOpensci/blob/master/README.Rmd)
+
+Prepared and presented by [Melina
+Vidoni](https://melvidoni.rbind.io/)
+
 ## [NLP with SpaCy in R](https://github.com/R-LadiesMelbourne/2019-06-18-NLP-with-SpaCy-in-R)
 
 Prepared and presented by [Ana
-Mamatelashvili](https://github.com/anamamatelashvili)
+Mamatelashvili](shttps://github.com/anamamatelashvili)
 
 ## [Baby one more time - reproducibility in R and when to bring in the big guns](https://mrslaviniag.github.io/xaringan_presentations/rladies_presentation_22_May_2019.html#1)
 
