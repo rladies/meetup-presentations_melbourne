@@ -7,6 +7,11 @@ R-Ladies Melbourne Events
 
 ## [Gold star reproducibility: straightforward containerisation with open-source tools](https://github.com/R-LadiesMelbourne/2019-09-17-Gold-star-reproducibility-containerisation)
 
+## [It takes a spark](https://github.com/R-LadiesMelbourne/2019-0912-It-takes-a-spark)
+
+Prepared and presented by [Shazia](https://twitter.com/search?q=%40DrShaziaRuybal&src=typd&lang=en)
+and [Marie](https://twitter.com/mtrussart?lang=en)
+
 Prepared and presented by Saras
 Windecker
 
