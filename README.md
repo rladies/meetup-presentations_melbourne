@@ -5,6 +5,12 @@ R-Ladies Melbourne Events
 
 # Events in 2019
 
+# Events in 2019
+
+## [Take a sad plot and make it better](https://github.com/R-LadiesMelbourne/2019-09-26-Take-a-sad-plot-and-make-it-better)
+
+Prepared and presented by [Alison Hill](https://alison.rbind.io/)
+
 ## [Gold star reproducibility: straightforward containerisation with open-source tools](https://github.com/R-LadiesMelbourne/2019-09-17-Gold-star-reproducibility-containerisation)
 
 Prepared and presented by Saras
