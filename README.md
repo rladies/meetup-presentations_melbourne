@@ -7,6 +7,10 @@ R-Ladies Melbourne Events
 
 # Events in 2019
 
+## [Intro to Data Analysis and Graphics with R](https://github.com/R-LadiesMelbourne/2019-10-11-Intro-to-Data-Analysis-and-Graphics-with-R)
+
+Presented and prepared by ZHUOWEN(Tobey) Zhang
+
 ## [Take a sad plot and make it better](https://github.com/R-LadiesMelbourne/2019-09-26-Take-a-sad-plot-and-make-it-better)
 
 Prepared and presented by [Alison Hill](https://alison.rbind.io/)
