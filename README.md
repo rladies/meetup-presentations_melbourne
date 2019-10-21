@@ -5,6 +5,7 @@ R-Ladies Melbourne Events
 
 # Events in 2019
 
+<<<<<<< HEAD
 ## [R-Shiny Tricks or Treats, Maybe Both?](https://github.com/R-LadiesMelbourne/2019-10-28-R-Shiny-Tricks-or-Treats-Maybe-Both-)
 
 Prepared and presented by [Goknur
@@ -19,11 +20,27 @@ Zhang
 
 Prepared and presented by [Alison
 Hill](https://alison.rbind.io/)
+=======
+# Events in 2019
+
+## [Intro to Data Analysis and Graphics with R](https://github.com/R-LadiesMelbourne/2019-10-11-Intro-to-Data-Analysis-and-Graphics-with-R)
+
+Presented and prepared by ZHUOWEN(Tobey) Zhang
+
+## [Take a sad plot and make it better](https://github.com/R-LadiesMelbourne/2019-09-26-Take-a-sad-plot-and-make-it-better)
+
+Prepared and presented by [Alison Hill](https://alison.rbind.io/)
+>>>>>>> 8aca95b9abaa26c6381e14d324ff876c648ad89d
 
 ## [Gold star reproducibility: straightforward containerisation with open-source tools](https://github.com/R-LadiesMelbourne/2019-09-17-Gold-star-reproducibility-containerisation)
 
 Prepared and presented by Saras
 Windecker
+
+## [It takes a spark](https://github.com/R-LadiesMelbourne/2019-0912-It-takes-a-spark)
+
+Prepared and presented by [Shazia](https://twitter.com/search?q=%40DrShaziaRuybal&src=typd&lang=en)
+and [Marie](https://twitter.com/mtrussart?lang=en)
 
 ## [Introduction to R workshop](https://github.com/R-LadiesMelbourne/2019-08-17_Introduction-to-R-workshop)
 
